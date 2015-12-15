@@ -1,0 +1,12 @@
+body {
+    margin:16px;
+    padding:50px;
+    background-color:#333;
+    /*background-image: url('https://wallpaperscraft.com/image/texture_pattern_black_background_50469_3840x2400.jpg');*/
+}
+h1{
+    font-family:arial;
+   padding:50px;
+   margin:0px;
+    color:black;
+}
